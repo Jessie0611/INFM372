@@ -6,10 +6,10 @@ div{
     color: white
 }
 header{
-    background-color: #32617a;
+    background-color: #2c6483;
 }
 body{
-    background-color: #506777;
+    background-color: #405768;
 }
 .footer{
     background-color: #293b55;
@@ -27,7 +27,7 @@ nav{
 }
 .dropbtn {
     margin-left: 30px;
-    background-color: #32617a;
+    background-color: #3d6f8a;
     color: white;
     padding: 20px;
     font-size: 16px;
@@ -73,9 +73,9 @@ nav{
 p{
     color: white;
     margin: 60px;
-    font-size: 20px;
+    font-size: 18px;
 }
-h1{
+h2{
     color: white;
     margin: 60px;
 }
